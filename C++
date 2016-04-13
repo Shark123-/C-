@@ -1,0 +1,9 @@
+// My attempt at trying c++
+
+#include <iostream>
+using namespace std:
+int main ()
+{
+std::cout << "My first try!";
+std::cout << "Hello people of the internet";
+}
